@@ -1,0 +1,8 @@
+resolver: nightly-2022-06-10
+
+packages:
+- .
+
+# extra-deps: []
+
+extra-deps: [mwc-random-0.14.0.0]
